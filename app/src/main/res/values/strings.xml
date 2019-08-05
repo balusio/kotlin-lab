@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Balu\'s App</string>
+    <string name="main_title">0</string>
+    <string name="toast_button">Toast</string>
+    <string name="count_button">Count</string>
+    <string name="random_button">Random</string>
+    <string name="random_message">This is a Random number between 0 and %1d</string>
+</resources>
